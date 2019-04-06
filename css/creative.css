@@ -23,8 +23,9 @@
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
+  --pantone-2019: #fa7268;
   --gray-dark: #343a40;
-  --primary: #f4623a;
+  --primary: #fa7268;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -2610,8 +2611,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #fa7268;
+  border-color: #fa7268;
 }
 
 .btn-primary:hover {
@@ -6909,13 +6910,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #fa7268 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #ee3e0d !important;
+  background-color: #fa7268 !important;
 }
 
 .bg-secondary {
@@ -10366,7 +10367,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #fa7268 !important; /* fa-awesome */
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10567,7 +10568,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #fa7268;
 }
 
 hr.light {
