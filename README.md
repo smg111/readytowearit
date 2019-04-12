@@ -11,8 +11,6 @@ The status is identical to the status of the [original](https://github.com/Black
 
 Ready-to-Wear It provides weekly new arrivals to match a woman's current lifestyle. From work-wear to travel or your first profile in a magazine spread.
 
-* https://readytowearit.com
-
 ## Copyright and License
 
 I obviously don't own any rights to the creative theme. I have not decided which license is best to use for this forked project. I'm happy if anyone finds any of my changes useful. At least fork it so I know it was useful to you :+1:
